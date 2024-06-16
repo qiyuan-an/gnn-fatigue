@@ -1,1 +1,1 @@
-# gnn-fatigue
+# GNN fatigue

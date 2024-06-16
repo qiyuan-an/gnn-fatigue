@@ -1,0 +1,13 @@
+# yacs==0.1.8
+numpy==1.24.4
+torch==1.8.2
+torchvision==0.9.2+cu102
+matplotlib==3.3.3
+tabulate==0.9.0
+tensorboard==2.14.0
+ray[tune]==2.8.0
+pillow==10.1.0
+tqdm==4.56.0
+opencv-python~=4.8.1.78
+jupyter==1.0.0
+pandas==2.0.3
